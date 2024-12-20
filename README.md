@@ -21,9 +21,9 @@ e)canvas-fireworks.js
 
 ####How to Use
 1.Clone the Repository
-    git clone <repository-url>
+    git clone <https://github.com/AliSayyed123/Fireworks-using-Js>
 2.Navigate to the Project Directory
-    cd new-year-fireworks
+    cd Fireworks-using-Js
 3.Open Index.html in a Web Browser
 4.Interact with the Page
  a)Click on the avatar to toggle characters.
