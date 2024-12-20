@@ -1,44 +1,46 @@
-#Fireworks-using-Js
+# Fireworks using JavaScript
 
-Welcome to simple JavaScript Fireworks project! This interactive web application is designed to celebrate the festive spirit with a dynamic canvas-based fireworks display and a playful avatar toggle feature. Explore and enjoy the New Year vibes in your browser.
+Welcome to the simple JavaScript Fireworks project! This interactive web application is designed to celebrate the festive spirit with a dynamic canvas-based fireworks display and a playful avatar toggle feature.
 
-  Features
+## Features
 
-A)Fireworks Display
-A vibrant, interactive fireworks animation rendered on a canvas element. Fireworks are triggered by mouse clicks for user interactivity.
+### Fireworks Display
+- A vibrant, interactive fireworks animation rendered on a canvas element.
+- Fireworks are triggered by mouse clicks for user interactivity.
 
-B)Avatar Toggle
-Clickable avatar image to toggle between festive characters (Santa, Reindeer, Bear, and Cookie).
+### Avatar Toggle
+- Clickable avatar image to toggle between festive characters (Santa, Reindeer, Bear, and Cookie).
 
-c)Gradient Background
-A visually appealing radial gradient background simulating a night sky.
+### Gradient Background
+- A visually appealing radial gradient background simulating a night sky.
 
-  Project Structure
+## Project Structure
 
-a)HTML (Index.html)
-b)JavaScript Files
-c)avatar-toggle.js
-d)canvas-background.js
-e)canvas-fireworks.js
+- **HTML**: `index.html`
+- **JavaScript Files**:
+  - `avatar-toggle.js`
+  - `canvas-background.js`
+  - `canvas-fireworks.js`
 
-  How to Use
+## How to Use
 
-1.Clone the Repository
+1. **Clone the Repository:**
+    ```sh
+    git clone https://github.com/AliSayyed123/Fireworks-using-Js
+    ```
 
-   git clone https://github.com/AliSayyed123/Fireworks-using-Js
+2. **Navigate to the Project Directory:**
+    ```sh
+    cd Fireworks-using-Js
+    ```
 
-2.Navigate to the Project Directory
+3. **Open `index.html` in a Web Browser:**
+    - Open with your preferred browser.
 
-   cd Fireworks-using-Js
+4. **Interact with the Page:**
+    - Click on the avatar to toggle characters.
+    - Click anywhere on the screen to trigger fireworks.
 
-3.Open Index.html in a Web Browser
+## Dependencies
 
-   Open with your preferred browser.
-
-4.Interact with the Page
-
-a)Click on the avatar to toggle characters.
-b)Click anywhere on the screen to trigger fireworks.
-
-  Dependencies
 No external dependencies are required. All functionality is implemented using vanilla JavaScript and HTML5!
