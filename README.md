@@ -4,13 +4,13 @@ Welcome to simple JavaScript Fireworks project! This interactive web application
 
   Features
 
-  🎇 Fireworks Display
+A)Fireworks Display
 A vibrant, interactive fireworks animation rendered on a canvas element. Fireworks are triggered by mouse clicks for user interactivity.
 
-  🎅 Avatar Toggle
+B)Avatar Toggle
 Clickable avatar image to toggle between festive characters (Santa, Reindeer, Bear, and Cookie).
 
-  🌈 Gradient Background
+c)Gradient Background
 A visually appealing radial gradient background simulating a night sky.
 
   Project Structure
